@@ -4,8 +4,8 @@
 
 
 <div>
-  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Joaohnt27&show_icons=true&theme=dracula&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaohnt27&layout=compact&theme=dracula">
+  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Joaohnt27&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaohnt27&layout=compact&theme=tokyonight">
 </div>
 
 <!--
