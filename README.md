@@ -1,5 +1,7 @@
 ### Welcome to my profile! 👋
 
+- 🌱 I’m currently graduatting computer engineering
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaohnt27&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaohnt27&layout=compact&langs_count=16&theme=tokyonight"/>
