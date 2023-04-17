@@ -1,9 +1,11 @@
-### Welcome! 👋
+### Welcome to my profile! 👋
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaohnt27&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaohnt27&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+![Snake animation](https://github.com/Joaohnt27/Joaohnt27/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Joaohnt27/Joaohnt27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
