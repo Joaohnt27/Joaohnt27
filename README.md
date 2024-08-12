@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-- 🌱 I’m currently graduatting computer engineering
+- 🌱 I’m currently graduatting software engineering
 
 
 <div>
