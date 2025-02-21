@@ -2,7 +2,7 @@
 
 <p>Hi, I'm João Henrique and these are some projects that I create to learn more about programming. Hope you enjoy! 😃</p>
 
-  - 🌱 Currently graduatting software engineering - 5/8
+  - 🌱 Currently graduatting Software Engineering - 5/8
   - 📚 Focusing studies in Java
   - 📍 Brazil, Ribeirão Preto - SP
 
