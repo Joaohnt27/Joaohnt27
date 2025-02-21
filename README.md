@@ -1,6 +1,7 @@
 ### Hi, I´m João Henrique. Welcome to my profile! 👋
 
-- 🌱 I’m currently graduatting software engineering
+- 🌱 I’m currently graduatting software engineering - 5/8
+- 📚 Focusing studies in Java
 
 
 <div>
