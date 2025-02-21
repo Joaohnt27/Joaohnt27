@@ -1,4 +1,4 @@
-### Welcome to my profile! 👋
+### Hi, I´m João Henrique. Welcome to my profile! 👋
 
 - 🌱 I’m currently graduatting software engineering
 
