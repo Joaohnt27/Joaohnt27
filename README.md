@@ -3,7 +3,7 @@
 <p>Hi, I'm João Henrique and these are some projects that I create to learn more about programming. Hope you enjoy! 😃</p>
 
   - 🌱 Currently graduatting Software Engineering - 6/8
-  - 📚 Focusing studies in Java
+  - 📚 Focusing studies in Java and Flutter
   - 📍 Brazil, Ribeirão Preto - SP
 
 <h2>🧑‍💻 Technologies I've already used/studied:</h2>
