@@ -18,7 +18,13 @@ I'm a Software Engineering student in my final semester, focused on Backend Deve
 </p>
 
 <p>
-I have hands-on experience with <strong>Java, Spring Boot, REST APIs, React, Python and PostgreSQL</strong>. I enjoy turning ideas into working products, from architecture and development to deployment and maintenance.
+I have hands-on experience with <strong>Java, Spring Boot, REST APIs, React, Python and PostgreSQL</strong>. 
+I enjoy turning ideas into working products, from architecture and development to deployment and maintenance.
+</p>
+
+<p>
+I also have a <strong>C1 level of English</strong>, certified through the <strong>Michigan English Test (MET)</strong>, 
+with the ability to communicate effectively in professional and technical environments.
 </p>
 
 ---
@@ -44,7 +50,11 @@ I have hands-on experience with <strong>Java, Spring Boot, REST APIs, React, Pyt
 Developed from scratch and used by approximately **160 users in production**.
 
 **Technologies:**
-`React` `Spring Boot` `PostgreSQL` `REST API` `Vercel` `Railway`
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🌐 **[www.copanexus.com.br](https://www.copanexus.com.br)**
 
@@ -59,7 +69,11 @@ Developed from scratch and used by approximately **160 users in production**.
 Independent project developed from concept to production, involving frontend, backend, database and deployment.
 
 **Technologies:**
-`React` `Java` `Spring Boot` `PostgreSQL` `REST API`
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🌐 **[yellowpiece.com](https://yellowpiece.com)**
 
@@ -72,7 +86,12 @@ Independent project developed from concept to production, involving frontend, ba
 **My Bachelor's thesis project:** a gamified platform for running performance monitoring and dynamic workout management.
 
 **Technologies:**
-`Flutter` `Java` `Spring Boot` `PostgreSQL` `Firebase`
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -83,7 +102,8 @@ Python automation project focused on monitoring financial market data.
 The bot consumes intraday data through the **Yahoo Finance API**, analyzes asset variations and sends automated alerts through **Telegram**, including DCA-based contribution suggestions.
 
 **Technologies:**
-`Python` `APIs` `Telegram` `Automation`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -91,19 +111,30 @@ The bot consumes intraday data through the **Yahoo Finance API**, analyzes asset
 
 #### Backend
 
-`Java` `Spring Boot` `Python` `REST APIs` `JPA/Hibernate`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Frontend
 
-`React` `JavaScript` `HTML5` `CSS3`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Database
 
-`PostgreSQL` `SQL`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-#### Tools & Cloud
+#### Cloud & Tools
 
-`Git` `GitHub` `AWS` `Vercel` `Railway`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
